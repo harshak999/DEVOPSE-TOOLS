@@ -1,0 +1,24 @@
+[2025-11-24 12:31:17] [main] DEBUG com.nt.service.EmplyeeSelectTest - starty of main(-)
+[2025-11-24 12:31:18] [main] DEBUG com.nt.service.EmplyeeSelectTest - Connection  with db s/w  is  establish
+[2025-11-24 12:31:18] [main] DEBUG com.nt.service.EmplyeeSelectTest - PreparedStaetement  obj Created
+[2025-11-24 12:31:18] [main] DEBUG com.nt.service.EmplyeeSelectTest - ResultSet obj is  created
+[2025-11-24 12:31:18] [main] WARN  com.nt.service.EmplyeeSelectTest - It  better  to process the  resulSet  data Directly   with  getXxx() method
+[2025-11-24 12:31:18] [main] DEBUG com.nt.service.EmplyeeSelectTest - ResultSet Obj  is processed
+[2025-11-24 12:31:21] [main] DEBUG com.nt.service.EmplyeeSelectTest - starty of main(-)
+[2025-11-24 12:31:22] [main] DEBUG com.nt.service.EmplyeeSelectTest - Connection  with db s/w  is  establish
+[2025-11-24 12:31:22] [main] DEBUG com.nt.service.EmplyeeSelectTest - PreparedStaetement  obj Created
+[2025-11-24 12:31:22] [main] DEBUG com.nt.service.EmplyeeSelectTest - ResultSet obj is  created
+[2025-11-24 12:31:22] [main] WARN  com.nt.service.EmplyeeSelectTest - It  better  to process the  resulSet  data Directly   with  getXxx() method
+[2025-11-24 12:31:22] [main] DEBUG com.nt.service.EmplyeeSelectTest - ResultSet Obj  is processed
+[2025-11-24 12:31:25] [main] DEBUG com.nt.service.EmplyeeSelectTest - starty of main(-)
+[2025-11-24 12:31:25] [main] DEBUG com.nt.service.EmplyeeSelectTest - Connection  with db s/w  is  establish
+[2025-11-24 12:31:26] [main] DEBUG com.nt.service.EmplyeeSelectTest - PreparedStaetement  obj Created
+[2025-11-24 12:31:26] [main] DEBUG com.nt.service.EmplyeeSelectTest - ResultSet obj is  created
+[2025-11-24 12:31:26] [main] WARN  com.nt.service.EmplyeeSelectTest - It  better  to process the  resulSet  data Directly   with  getXxx() method
+[2025-11-24 12:31:26] [main] DEBUG com.nt.service.EmplyeeSelectTest - ResultSet Obj  is processed
+[2025-11-24 12:31:28] [main] DEBUG com.nt.service.EmplyeeSelectTest - starty of main(-)
+[2025-11-24 12:31:28] [main] DEBUG com.nt.service.EmplyeeSelectTest - Connection  with db s/w  is  establish
+[2025-11-24 12:31:29] [main] DEBUG com.nt.service.EmplyeeSelectTest - PreparedStaetement  obj Created
+[2025-11-24 12:31:29] [main] DEBUG com.nt.service.EmplyeeSelectTest - ResultSet obj is  created
+[2025-11-24 12:31:29] [main] WARN  com.nt.service.EmplyeeSelectTest - It  better  to process the  resulSet  data Directly   with  getXxx() method
+[2025-11-24 12:31:29] [main] DEBUG com.nt.service.EmplyeeSelectTest - ResultSet Obj  is processed
